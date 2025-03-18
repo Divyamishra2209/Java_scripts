@@ -1,4 +1,7 @@
 //  Primitive
+// Primitive types are the most basic types in JavaScript. They are immutable, meaning their values cannot be changed once they are assigned.
+
+// Non-primitive types are more complex data types. These include objects, arrays, and functions. Unlike primitive types, they are mutable, and the variable holds a reference to the value (not the actual value).
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
