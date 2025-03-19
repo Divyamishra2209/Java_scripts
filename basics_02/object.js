@@ -2,6 +2,8 @@
 // Object.create
 
 // object literals
+// Literals in JavaScript are fixed values that you use directly in your code without needing to define a variable. They represent constants and are not assigned using variables or expressions.
+
 
 const mySym = Symbol("key1")
 
